@@ -5,7 +5,7 @@
 I am working since 2018 as a software engineer.
 I am currently working at GeekPeek Software & Technology.
 
-Skills: VUE JS / REACT / JS / HTML / CSS / SQL / JQUERY / MONGO
+Skills: VUE JS / REACT / JS / HTML / CSS / SQL / JQUERY / MONGOCancel changes
 
 - 🔭 I’m currently working on Stock Market Project 
 - 🌱 I’m currently learning Next js 
@@ -16,5 +16,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / SQL / JQUERY / MONGO
 
 Projects:
 
-<img src="https://github.com/chandrashekhermishra/chandrashekhermishra/blob/main/1%20mLE5ZxhtATxrwh20SL2Tlg.png" width="250" />
-<img src="https://github.com/chandrashekhermishra/chandrashekhermishra/blob/main/tild3633-3336-4233-b761-353238323066__6638__ecommercemain.jpg" width="250" />
+<a href="https://github.com/chandrashekhermishra/superchat" target="_blank"><img src="https://github.com/chandrashekhermishra/chandrashekhermishra/blob/main/1%20mLE5ZxhtATxrwh20SL2Tlg.png" width="240" />
+</a>
+<a href="https://github.com/chandrashekhermishra/E-commerce" target="_blank"><img src="https://github.com/chandrashekhermishra/chandrashekhermishra/blob/main/tild3633-3336-4233-b761-353238323066__6638__ecommercemain.jpg" width="240" /></a>
