@@ -5,7 +5,7 @@
 I am working since 2018 as a software engineer.
 I am currently working at GeekPeek Software & Technology.
 
-Skills: VUE JS / REACT / JS / HTML / CSS / SQL / JQUERY / MONGOCancel changes
+Skills: VUE JS / REACT / JS / HTML / CSS / SQL / JQUERY / MONGO
 
 - 🔭 I’m currently working on Stock Market Project 
 - 🌱 I’m currently learning Next js 
