@@ -16,6 +16,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / SQL / JQUERY / MONGO
 
 Projects:
 
-<a href="https://github.com/chandrashekhermishra/superchat" target="_blank"><img src="https://github.com/chandrashekhermishra/chandrashekhermishra/blob/main/1%20mLE5ZxhtATxrwh20SL2Tlg.png" width="240" />
+<a href="https://github.com/chandrashekhermishra/superchat" target="_blank"><img src="https://github.com/chandrashekhermishra/chandrashekhermishra/blob/main/1%20mLE5ZxhtATxrwh20SL2Tlg.png" width="218" />
 </a>
 <a href="https://github.com/chandrashekhermishra/E-commerce" target="_blank"><img src="https://github.com/chandrashekhermishra/chandrashekhermishra/blob/main/tild3633-3336-4233-b761-353238323066__6638__ecommercemain.jpg" width="240" /></a>
